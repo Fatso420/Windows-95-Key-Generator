@@ -1,0 +1,10 @@
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\bin\Debug\W95 KeyGen.exe.config
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\bin\Debug\W95 KeyGen.exe
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\bin\Debug\W95 KeyGen.pdb
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95 KeyGen.csprojAssemblyReference.cache
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95_KeyGen.Form1.resources
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95_KeyGen.Properties.Resources.resources
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95 KeyGen.csproj.GenerateResource.cache
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95 KeyGen.csproj.CoreCompileInputs.cache
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95 KeyGen.exe
+C:\Users\ChunkyCurry\source\repos\W95 KeyGen\W95 KeyGen\obj\Debug\W95 KeyGen.pdb
